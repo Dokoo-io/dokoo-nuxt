@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "main": "dist/index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "@nuxt/types": "^2.15.8",
     "@types/node": "^16.9.6",
