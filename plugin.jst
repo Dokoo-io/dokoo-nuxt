@@ -1,0 +1,15 @@
+import Vue from 'vue'
+import { Client } from '@dokoo/content-api'
+
+const options = <%= JSON.stringify(options) %>
+
+const dokoo = Object.assign({}, ...Object.keys(options.clients).map(key => {
+  return {
+    [key]: new Client(options.clients[key])
+  }
+}))
+
+export default async function (ctx, inject) {
+  inject('dokoo', dokoo)
+  ctx.$dokoo = dokoo
+}

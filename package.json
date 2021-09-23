@@ -1,0 +1,16 @@
+{
+  "name": "@dokoo/nuxt",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@types/node": "^16.9.6",
+    "nuxt": "^2.15.8",
+    "typescript": "^4.4.3",
+    "vue": "^2.6.14"
+  },
+  "dependencies": {
+    "@dokoo/content-api": "^0.0.5"
+  }
+}
