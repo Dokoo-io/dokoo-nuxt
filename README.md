@@ -24,6 +24,7 @@ export default {
 }
 ```
 
+## Usage 
 You are ready to go! Use it in any of your component:
 
 ```javascript
