@@ -16,7 +16,6 @@ export default {
   dokoo: {
     clients: {
       myCms: {
-        spaceId: '<your-space-id',
         token: '<your-access-token>'
       }
     }      
