@@ -41,3 +41,7 @@ export default {
   }    
 }
 ```
+
+Find the documentation of the Javascript Dokoo Client here:
+
+- https://github.com/Dokoo-io/sdk-js/wiki/API#class-client
