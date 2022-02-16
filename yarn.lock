@@ -908,10 +908,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@dokoo/content-api@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@dokoo/content-api/-/content-api-0.0.5.tgz#e9b434556a8eae280ff79cc76126cc638b86d793"
-  integrity sha512-NdeSZ2VP41VR4GVBt9e/j4TDm5glNYYZz5Vi2qkfdiY5zVrapylAaFUzunXoXZYAUAXQ8iptwcmXypdBxlojVw==
+"@dokoo/sdk-js@^0.0.16":
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/@dokoo/sdk-js/-/sdk-js-0.0.16.tgz#6689fa2ad37380c43d199890b392ffe51b659d11"
+  integrity sha512-kPnAKb7apsV79JgJascSZX+tDAkq3tU3eB/6lfSjgYn/o0kUVRuIuQWT4cn2x49z0+Qaerlw77HPuB/0ZJ54hw==
   dependencies:
     axios "^0.21.4"
 
@@ -3771,9 +3771,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.14.0:
-  version "1.14.4"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.4.tgz#838fdf48a8bbdd79e52ee51fb1c94e3ed98b9379"
-  integrity sha512-zwGkiSXC1MUJG/qmeIFH2HBJx9u0V46QGUe3YR1fXG8bXQxq7fLj0RjLZQ5nubr9qNJUZrH+xUcwXEoXNpfS+g==
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^1.0.2:
   version "1.0.2"

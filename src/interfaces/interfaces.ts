@@ -1,5 +1,5 @@
 export interface DokooClientOptions {
-  spaceId: string
+  spaceId?: string
   token: string
 }
 

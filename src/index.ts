@@ -1,5 +1,5 @@
 import * as path from 'path'
-import { Client } from '@dokoo/content-api'
+import { Client } from '@dokoo/sdk-js'
 import { Module } from '@nuxt/types'
 import { DokooModuleOptions, DokooClientOptions } from './interfaces/interfaces'
 
